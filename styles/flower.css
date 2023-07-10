@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner-img {
+    width: 635px;
+    height: 800px;
+}
+
+.banner-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.banner-message {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.banner-btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+}
+.banner-text{
+    padding: 197px 95px 365px 240px;
+}
+.banner-image{
+    margin-top: 50px;
+    margin-right: 240px;
+    margin-bottom: 0px;
+
+}
