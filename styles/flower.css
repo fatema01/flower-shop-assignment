@@ -6,7 +6,21 @@
 /* common sheard */
 body {
     font-family: 'Lato', sans-serif;
-font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+
 }
 
 .banner-btn {
@@ -32,7 +46,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .banner-title {
-    font-size: 60px;
+    color: #272727;
+    font-size: 80px;
     font-weight: 800;
 }
 
@@ -58,7 +73,7 @@ font-family: 'Open Sans', sans-serif;
     align-items: center;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    
+
 }
 
 .hot-deal-text {
@@ -72,19 +87,42 @@ font-family: 'Open Sans', sans-serif;
     font-weight: 800;
     padding-bottom: 24px;
 }
-.tittle-part{
+
+.tittle-part {
     color: #E55473;
 }
-.hot-deal-description{
+
+.hot-deal-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     padding-bottom: 32px;
 }
-.hot-deal-img{
+
+.hot-deal-img {
     width: 300px;
     height: 400px;
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 240px;
+}
+
+/* instagram */
+.instagram {
+    padding: 100px;
+}
+
+#instagram-description {
+    padding-top: 24px;
+    padding-bottom: 48px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.insta-img {
+    padding-right: 24px;
+    width: 342px;
+    height: 396px;
 }
