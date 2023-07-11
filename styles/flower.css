@@ -126,3 +126,33 @@ body {
     width: 342px;
     height: 396px;
 }
+
+/* Get The Latest Deals */
+.Latest-Deals-content {
+    background-image: url('./Rectangle9.png');
+}
+
+.input-email {
+    width: 700px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.submit-btn {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    /* font-weight: 700; */
+    padding: 20px 40px;
+}
+.input-session{
+    text-align: center;
+}
