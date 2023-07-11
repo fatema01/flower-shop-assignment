@@ -61,19 +61,24 @@ body {
 }
 
 .banner {
-  padding: 50px 200px 0px 200px;
+  padding: 50px 240px 0px;
   display: flex;
   align-items: center;
   background: rgba(229, 84, 115, 0.1);
+  /* margin-bottom: 0px; */
 }
 
 .banner-content {
-  padding-right: 95px;
+  max-width: 700px;
+  margin-right: 40px;
+  /* padding-right: 95px; */
+  /* margin-bottom: 147px; */
 }
 
 .banner-title {
   color: #272727;
-  font-size: 80px;
+  font-size: 70px;
+  width: 600px;
   font-weight: 800;
 }
 
@@ -86,8 +91,9 @@ body {
 }
 
 .banner .banner-img {
-  width: 600px;
-  height: 700px;
+  width: 630px;
+  height: 800px;
+  margin-bottom: 0px;
 }
 
 /* main section */
